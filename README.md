@@ -54,12 +54,6 @@ I am an experienced AI Analyst with a strong background in developing and deploy
 |   Sunbeam English School Bhagwanpur, Varanasi | 2017-2018 | Class XII (ISC) | 83% |
 |   Sunbeam English School Bhagwanpur, Varanasi | 2015-2016 | Class X | 8.8 | [cite: 19]
 
-## Projects
-
-_You can add a section here detailing personal projects or open-source contributions.  If you have separate repositories for individual projects, link them here._
-
-* **Project Name 1:** A brief description of the project and its purpose.
-* **Project Name 2:** A brief description of the project and its purpose.
 
 ## Connect with Me
 
